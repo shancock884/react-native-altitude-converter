@@ -1,0 +1,19 @@
+{
+  "name": "react-native-altitude-converter",
+  "version": "1.0.0",
+  "description": "Access the Android library to convert from WGS84 to MSL altitude",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Hancock",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shancock884/react-native-altitude-converter.git"
+  },
+  "homepage": "https://github.com/shancock884/react-native-altitude-converter",
+  "types": "./types/index.d.ts"
+}
